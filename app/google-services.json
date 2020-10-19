@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211009624984",
+    "firebase_url": "https://hujanayatme.firebaseio.com",
+    "project_id": "hujanayatme",
+    "storage_bucket": "hujanayatme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211009624984:android:862449fad92b75fd2a29ed",
+        "android_client_info": {
+          "package_name": "com.example.hujanayatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211009624984-ai7g9fi8u3ho8ugancaugkfcgtdvh32d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hujanayatme",
+            "certificate_hash": "513b415891c48fc11214f67618f3c65235b05e31"
+          }
+        },
+        {
+          "client_id": "211009624984-p3n78pemk5k2oci0nhbuhqmhh78sn12c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaq8F65s5BnSU1Xy-gAzi6DwqFOZ35xF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211009624984-p3n78pemk5k2oci0nhbuhqmhh78sn12c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
